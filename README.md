@@ -161,6 +161,8 @@ cdk destroy
 * Multi-environment setup (dev/staging/prod)
 * Observability dashboards with alerts
 
+## Application Output
+![App screenshot](screenshots/app.png)
 ---
 
 ## Author
